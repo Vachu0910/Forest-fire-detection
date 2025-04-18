@@ -1,5 +1,3 @@
-Here’s a full **GitHub project description** you can use for your repository on the UAV-based forest fire ML system:
-
 ---
 
 ## 🔥 UAV-Based Forest Fire Monitoring and Prediction System
